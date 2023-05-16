@@ -1,0 +1,94 @@
+E:\iTi\Labs\C#\Player\Player\bin\Debug\Player.exe.config
+E:\iTi\Labs\C#\Player\Player\bin\Debug\Player.exe
+E:\iTi\Labs\C#\Player\Player\bin\Debug\Player.pdb
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.Game.resources
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.Properties.Resources.resources
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.Rooms.resources
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.Start.resources
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.exe
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.pdb
+E:\iTi\Labs\C#\Player\Player\obj\Debug\Player.Create.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\bin\Debug\Player.exe.config
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\bin\Debug\Player.exe
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\bin\Debug\Player.pdb
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.Create.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.Game.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.Properties.Resources.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.Rooms.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.Start.resources
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.exe
+H:\Programing\ITI\Visual C#.Net\Project\Nada\Connect4\Player\Player\obj\Debug\Player.pdb
+C:\Users\DELL\Desktop\Connect4\Player\Player\bin\Debug\Player.exe.config
+C:\Users\DELL\Desktop\Connect4\Player\Player\bin\Debug\Player.exe
+C:\Users\DELL\Desktop\Connect4\Player\Player\bin\Debug\Player.pdb
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.Create.resources
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.Game.resources
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.Rooms.resources
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.Start.resources
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.exe
+C:\Users\DELL\Desktop\Connect4\Player\Player\obj\Debug\Player.pdb
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\bin\Debug\Player.exe.config
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\bin\Debug\Player.exe
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\bin\Debug\Player.pdb
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.Create.resources
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.Game.resources
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.Rooms.resources
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.Start.resources
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.exe
+C:\Users\Lenovo\Desktop\Connect4\Player\Player\obj\Debug\Player.pdb
+F:\Final-Project\Player\Player\bin\Debug\Player.exe.config
+F:\Final-Project\Player\Player\bin\Debug\Player.exe
+F:\Final-Project\Player\Player\bin\Debug\Player.pdb
+F:\Final-Project\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+F:\Final-Project\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+F:\Final-Project\Player\Player\obj\Debug\Player.Create.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Game.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Properties.Resources.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Rooms.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Start.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+F:\Final-Project\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+F:\Final-Project\Player\Player\obj\Debug\Player.exe
+F:\Final-Project\Player\Player\obj\Debug\Player.pdb
+F:\Final-Project\Player\Player\obj\Debug\Player.Accepting.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.ChooseColor.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Waiting.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.GameResult.resources
+F:\Final-Project\Player\Player\obj\Debug\Player.Spectator.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\bin\Debug\Player.exe.config
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\bin\Debug\Player.exe
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\bin\Debug\Player.pdb
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Accepting.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.ChooseColor.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Create.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.GameResult.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Spectator.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Waiting.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Game.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Rooms.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.Start.resources
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.exe
+C:\Users\Lenovo\Desktop\Final-Project\Player\Player\obj\Debug\Player.pdb
